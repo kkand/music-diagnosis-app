@@ -1,0 +1,58 @@
+{
+  "upbeat": [
+    {
+      "title": "Good Time",
+      "artist": "Owl City & Carly Rae Jepsen",
+      "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Owl_City_%26_Carly_Rae_Jepsen_-_Good_Time.png/220px-Owl_City_%26_Carly_Rae_Jepsen_-_Good_Time.png",
+      "youtubeUrl": "https://www.youtube.com/watch?v=H7HmzwlJ_oE"
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Mark_Ronson_feat._Bruno_Mars_-_Uptown_Funk_%28Official_Single_Cover%29.png/220px-Mark_Ronson_feat._Bruno_Mars_-_Uptown_Funk_%28Official_Single_Cover%29.png",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OPf0qb_bQ_w"
+    }
+  ],
+  "chill": [
+    {
+      "title": "Sunday Morning",
+      "artist": "Maroon 5",
+      "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Maroon_5_-_Songs_About_Jane.png/220px-Maroon_5_-_Songs_About_Jane.png",
+      "youtubeUrl": "https://www.youtube.com/watch?v=S-x3z_y_y_o"
+    },
+    {
+      "title": "Shape of My Heart",
+      "artist": "Sting",
+      "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Sting_-_Ten_Summoner%27s_Tales.jpg/220px-Sting_-_Ten_Summoner%27s_Tales.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=N_lpm_y_y_o"
+    }
+  ],
+  "energetic": [
+    {
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Queen_-_Jazz.png/220px-Queen_-_Jazz.png",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HgzGwrmLg8Y"
+    },
+    {
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/ACDC_Thunderstruck.jpg/220px-ACDC_Thunderstruck.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=v2AC41dglnM"
+    }
+  ],
+  "melancholy": [
+    {
+      "title": "Hallelujah",
+      "artist": "Leonard Cohen",
+      "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Leonard_Cohen_-_Various_Positions.jpg/220px-Leonard_Cohen_-_Various_Positions.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YrLk4vdY2Q"
+    },
+    {
+      "title": "Yesterday",
+      "artist": "The Beatles",
+      "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Yesterday_single_cover.jpg/220px-Yesterday_single_cover.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mQER0A0sR0M"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "今の気分は？",
+    "choices": [
+      { "text": "ハッピー", "type": "upbeat" },
+      { "text": "リラックスしたい", "type": "chill" },
+      { "text": "やる気を出したい", "type": "energetic" },
+      { "text": "少しセンチメンタル", "type": "melancholy" }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "どんな場所で聴きたい？",
+    "choices": [
+      { "text": "ドライブしながら", "type": "energetic" },
+      { "text": "部屋でゆっくり", "type": "chill" },
+      { "text": "パーティーで", "type": "upbeat" },
+      { "text": "雨の日に窓辺で", "type": "melancholy" }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "どんな楽器の音が好き？",
+    "choices": [
+      { "text": "ギター", "type": "energetic" },
+      { "text": "ピアノ", "type": "melancholy" },
+      { "text": "シンセサイザー", "type": "upbeat" },
+      { "text": "アコースティック", "type": "chill" }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>おすすめ曲診断</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <h1>おすすめ曲診断</h1>
+        <div id="start-screen">
+            <p>いくつかの質問に答えて、あなたにぴったりの一曲を見つけよう！</p>
+            <button id="start-button">診断をはじめる</button>
+        </div>
+        <div id="quiz-screen" style="display:none;">
+            <h2 id="question-text"></h2>
+            <div id="choices-container"></div>
+        </div>
+        <div id="result-screen" style="display:none;">
+            <h2>あなたへのおすすめはこれ！</h2>
+            <h3 id="result-title"></h3>
+            <p id="result-artist"></p>
+            <img id="result-album-art" src="" alt="アルバムアート" style="max-width: 200px;">
+            <p><a id="result-youtube-link" href="#" target="_blank">YouTubeで聴く</a></p>
+            <button id="restart-button">もう一度診断する</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
