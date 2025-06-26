@@ -3,14 +3,14 @@
     {
       "title": "Good Time",
       "artist": "Owl City & Carly Rae Jepsen",
-      "albumArtUrl": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Good+Time",
+      "albumArtUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Owl_City_and_Carly_Rae_Jepsen_-_Good_Time.png",
       "youtubeUrl": "https://www.youtube.com/embed/H7HmzwlJ_oE"
     },
     {
       "title": "Uptown Funk",
       "artist": "Mark Ronson ft. Bruno Mars",
-      "albumArtUrl": "https://via.placeholder.com/150/00FF00/000000?text=Uptown+Funk",
-      "youtubeUrl": "https://www.youtube.com/embed/OPf0qb_bQ_w"
+      "albumArtUrl": "https://www.kindpng.com/picc/m/158-1580373_tennis-racket-png-mark-ronson-uptown-funk-album.png",
+      "youtubeUrl": "https://www.youtube.com/embed/OPf0YbXqDm0"
     }
   ],
   "chill": [
@@ -18,26 +18,26 @@
       "title": "Sunday Morning",
       "artist": "Maroon 5",
       "albumArtUrl": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Sunday+Morning",
-      "youtubeUrl": "https://www.youtube.com/embed/S-x3z_y_y_o"
+      "youtubeUrl": "https://www.youtube.com/embed/S_R0_j_g_20"
     },
     {
       "title": "Shape of My Heart",
       "artist": "Sting",
-      "albumArtUrl": "https://via.placeholder.com/150/FFFF00/000000?text=Shape+of+My+Heart",
-      "youtubeUrl": "https://www.youtube.com/embed/N_lpm_y_y_o"
+      "albumArtUrl": "https://policewiki.org/File:Sting-album-tensummonerstales.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/N_lrrq_opNA"
     }
   ],
   "energetic": [
     {
       "title": "Don't Stop Me Now",
       "artist": "Queen",
-      "albumArtUrl": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=Don't+Stop+Me+Now",
-      "youtubeUrl": "https://www.youtube.com/embed/HgzGwrmLg8Y"
+      "albumArtUrl": "https://i.ibb.co/ygQm7Vm/cover.png",
+      "youtubeUrl": "https://www.youtube.com/embed/HgzGwrmLg9M"
     },
     {
       "title": "Thunderstruck",
       "artist": "AC/DC",
-      "albumArtUrl": "https://via.placeholder.com/150/00FFFF/000000?text=Thunderstruck",
+      "albumArtUrl": "https://www.albumartexchange.com/covers/4000/400000-thunderstruck-single",
       "youtubeUrl": "https://www.youtube.com/embed/v2AC41dglnM"
     }
   ],
